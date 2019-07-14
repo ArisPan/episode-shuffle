@@ -1,5 +1,5 @@
 # Description
-A Command Prompt type application to randomly generate episodes from a given TV Show.
+A Command Prompt and GUI application to randomly generate episodes from a given TV Show.
 All info gained through TV Maze's API.
 https://www.tvmaze.com/api
 
