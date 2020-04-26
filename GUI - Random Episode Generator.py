@@ -56,6 +56,7 @@ class App(QWidget):
 		# Create output label for episode summary
 		self.episode_summary = QLabel(self)
 		self.episode_summary.setAlignment(QtCore.Qt.AlignCenter)
+		self.episode_summary.setWordWrap(True)
 		self.episode_summary.setStyleSheet('color: rgb(74, 156, 165)')
 
 		# Change episode summary font and font size
