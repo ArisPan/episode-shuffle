@@ -14,10 +14,10 @@ To run the command line script, please make sure you have [requests](https://pyp
 Using pip:\
 ```pip install requests```\
 For the GUI application PyQT5 framework is essential.\
-`pip install pyqt5`
+```pip install pyqt5```
 
 # Running the code
 On a terminal, simply type:\
-`python "Random Episode Generator.py"`\
+```python "Random Episode Generator.py"```\
 or\
-`python "GUI - Random Episode Generator.py"`
+```python "GUI - Random Episode Generator.py"```
