@@ -12,12 +12,20 @@ API communication established with the use of **request** and **json** python li
 # Dependencies
 To run the command line script, please make sure you have [requests](https://pypi.org/project/requests/) library installed.\
 Using pip:\
-```pip install requests```\
-For the GUI application PyQT5 framework is essential.\
-```pip install pyqt5```
+```
+pip install requests
+```
+For the GUI application PyQT5 framework is essential.
+```
+pip install pyqt5
+```
 
 # Running the code
 On a terminal, simply type:\
-```python "Random Episode Generator.py"```\
-or\
-```python "GUI - Random Episode Generator.py"```
+```
+python "Random Episode Generator.py"
+```
+or
+```
+python "GUI - Random Episode Generator.py"
+```
